@@ -1,14 +1,14 @@
-header{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 80px;
-    width: 100%;
-    background-color: blueviolet;
-    color: white;
+body{
+    background-image: url(../img/pexels-pixabay-531880.jpg);
+    object-fit: cover;
 }
-
 main{
-    width: 100%;
-    height: 100%;
+    height: 100vh;
+    width: 100vw;
+}
+.main-container{
+    margin: auto;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.582);
 }
